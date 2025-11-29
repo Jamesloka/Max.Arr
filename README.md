@@ -1,6 +1,6 @@
 # Max.Arr
 Finding the Maximum Element in an Array (C Program)
-📘 Project Overview
+Project Overview
 This project demonstrates a simple algorithm to find the maximum element in an array using the C programming language.
 It is part of an exercise requiring:
 Writing the algorithm
